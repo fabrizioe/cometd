@@ -1,4 +1,4 @@
-#Modified by Fabrizioe
+###Modified by Fabrizioe - Dynamic Switch###
 ## The CometD Project ##
 
 Welcome to the [CometD](http://cometd.org) Project, a scalable comet (server push) implementation for the web.
